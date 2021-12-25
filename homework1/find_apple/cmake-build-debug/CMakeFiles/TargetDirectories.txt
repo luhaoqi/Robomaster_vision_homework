@@ -1,0 +1,3 @@
+/home/lhq/CLionProjects/homework/homework1/find_apple/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lhq/CLionProjects/homework/homework1/find_apple/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lhq/CLionProjects/homework/homework1/find_apple/cmake-build-debug/CMakeFiles/opencv_test.dir
