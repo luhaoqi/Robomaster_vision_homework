@@ -82,7 +82,6 @@ int main() {
 
     std::cout << calibrateCamera( point_grid_pos, point_pix_pos, img_size, camera_matrix, dist_coeffs, rvecs, tvecs ) << std::endl;
     std::cout << camera_matrix << std::endl << dist_coeffs << std::endl;
-
     cv::Mat src = cv::imread("../calib2/1.jpg");
     cv::Mat ret ;
     cv::undistort( src, ret, camera_matrix, dist_coeffs);
